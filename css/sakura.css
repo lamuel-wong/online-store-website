@@ -262,9 +262,9 @@ fieldset {
 
 #products-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* This will create three columns */
-  gap: 14px; /* Adjust the gap size to your liking */
-  padding: 20px; /* Adds some padding around the grid */
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px; 
+  padding: 20px; 
 }
 
 .card {

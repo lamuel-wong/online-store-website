@@ -91,7 +91,7 @@ window.products = [
     price: 50000,
     discontinued: false,
     categories: ["model-rigging"],
-    imageUrl: "images/halfBody.jpg"
+    imageUrl: "images/standardRig.gif"
   },
   {
     id: "mr2",
@@ -101,7 +101,7 @@ window.products = [
     price: 75000,
     discontinued: false,
     categories: ["model-rigging"],
-    imageUrl: "images/fullBody.jpg"
+    imageUrl: "images/fullBodyRig.gif"
   },
   {
     id: "mr3",
@@ -111,7 +111,7 @@ window.products = [
     price: 25000,
     discontinued: false,
     categories: ["model-rigging"],
-    imageUrl: "images/chibi.png"
+    imageUrl: "images/chibiRig.gif"
   },
   {
     id: "mr4",
@@ -140,7 +140,7 @@ window.products = [
     price: 10000,
     discontinued: false,
     categories: ["model-rigging"],
-    imageUrl: "images/pngtuber.jpg"
+    imageUrl: "images/pngtuberRig.gif"
   },
   // Digital Assets Products
   {
@@ -154,62 +154,13 @@ window.products = [
   },
   {
     id: "da2",
-    title: "Fantasy-Themed Stream Overlay Pack",
-    description:
-      "High-resolution, fantasy-themed stream overlay, featuring intricate designs and magical motifs.",
-    price: 6000,
-    discontinued: false,
-    categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
-  },
-  {
-    id: "da3",
-    title: "Cyberpunk-Themed Stream Overlay Pack",
-    description:
-      "Futuristic and vibrant cyberpunk-style overlays to give your stream a dynamic, high-tech look.",
-    price: 6000,
-    discontinued: false,
-    categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
-  },
-  {
-    id: "da4",
-    title: "Custom Minimalistic Stream Overlay Pack",
-    description:
-      "A sleek, clean and lightweight overlay style that prioritizes screen real estate, with a broken up personalized silhouette, perfect for a minimalist aesthetic.",
-    price: 15000,
-    discontinued: false,
-    categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
-  },
-  {
-    id: "da5",
-    title: "Custom Modular Stream Overlay Pack",
-    description:
-      "A versatile, modular overlay pack designed for personalization and flexibility. Features detachable components for a tailored streaming layout, maintaining screen space with a stylish, unobtrusive design.",
-    price: 15000,
-    discontinued: false,
-    categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
-  },
-  {
-    id: "da6",
-    title: "Custom Standard Stream Overlay Pack",
-    description: "An even balance between screen real estate and overlay elements.",
-    price: 15000,
-    discontinued: false,
-    categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
-  },
-  {
-    id: "da7",
     title: "Interactive Digital Props",
     description:
       "Set of animated and interactive digital props for streaming. Includes video game controller, mouse and keyboard, blankets, and food.",
     price: 7500,
     discontinued: false,
     categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
+    imageUrl: "images/props.jpg"
   },
   {
     id: "da8",
@@ -219,29 +170,10 @@ window.products = [
     price: 9000,
     discontinued: false,
     categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
+    imageUrl: "images/chatEmotes.jpg"
   },
   {
     id: "da9",
-    title: "Stream BGM/Character Theme",
-    description: "Thematic background music for your streams.",
-    price: 10000,
-    discontinued: false,
-    categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
-  },
-  {
-    id: "da10",
-    title: "Sound Effect Pack",
-    description:
-      "Diverse sound effect pack featuring attention-grabbing stream alerts and stinger (animated transition) effects.",
-    price: 7500,
-    discontinued: false,
-    categories: ["digital-assets"],
-    imageUrl: "images/background.jpg"
-  },
-  {
-    id: "da11",
     title: "Halloween-Themed Chat Emotes",
     description:
       "Exclusive Halloween-themed chat emotes, perfect for adding a spooky touch to your stream.",
@@ -251,7 +183,7 @@ window.products = [
     imageUrl: "images/background.jpg"
   },
   {
-    id: "da12",
+    id: "da10",
     title: "Christmas-Themed Overlay Pack",
     description:
       "Festive and cheerful Christmas-themed overlay, perfect for bringing holiday spirit to your streams. Features seasonal motifs and vibrant colors for a warm, welcoming ambiance.",
