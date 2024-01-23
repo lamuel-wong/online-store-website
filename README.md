@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Virtual Star Boutique - Online Web Store</h3>
+  <h3 align="center">Online Web Store - Virtual Star Boutique</h3>
   <p align="center">
     Bringing the Digital Limelight to You
   </p>
