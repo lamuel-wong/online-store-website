@@ -13,16 +13,6 @@
  */
 
 window.products = [
-  /*
-    {
-      id: "P1",
-      title: "Title 1",
-      description: "Description 1...",
-      price: 199,
-      discontinued: false,
-      categories: ["c1"]
-    },
-  */
   // Model Art Products
   {
     id: "ma1",
